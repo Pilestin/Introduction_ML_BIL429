@@ -1,5 +1,13 @@
 # Proje-1: Regresyon
 
+Bu proje iki aşamadan oluşmaktadır. İlk kısım lineer regresyon kullanarak, bir evin iki özelliği ile fiyatını tahmin etmeye yöneliktir. İkinci kısım ise evin bir çok özelliğini, çoklu lineer regresyon kullanarak fiyatını tahmin etmeye yöneliktir. 
+
+Direk kodları incelemek için odev1.py ve odev2.py dosyalarını inceleyebilirsin. Eğer notlar ile beraber incelemek istersen proje_1_Regresyon.ipynb dosyasını inceleyebilirsin.
+
+
+Verileri indirmek için : <a href="kc_house_data.csv">kc_house_data.csv</a>
+
+
 Bu rapor Notion kullanarak yazılmıştır. Buradan Notion sayfasına ulaşabilir ve raporu daha düzenli okuyabilirsiniz.
 
 
