@@ -2,25 +2,28 @@
 
 Bu rapor Notion kullanarak yazılmıştır. Buradan Notion sayfasına ulaşabilir ve raporu daha düzenli okuyabilirsiniz.
 
-<aside>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="40px" /> Link : [https://dawn-squash-710.notion.site/Proje-1-Regresyon-08c0dec28ff349439db3dfe26f1b0b5d](https://www.notion.so/Proje-1-Regresyon-08c0dec28ff349439db3dfe26f1b0b5d)
 
-</aside>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="30px" /> Link : [Notion](https://www.notion.so/Proje-1-Regresyon-08c0dec28ff349439db3dfe26f1b0b5d)
+
 
 Tüm işlemler google colab kullanarak yapıldı. Kodlara ve .ipynb dosyasına ulaşmak için : 
 
-<aside>
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40px" /> Link : [https://github.com/Pilestin/My_ML_Adventure/tree/master/Makine Öğrenmesine Giriş/Proje 1 - Regresyon](https://github.com/Pilestin/My_ML_Adventure/tree/master/Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/Proje%201%20-%20Regresyon)
 
-</aside>
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px" /> Link : [Proje 1 - Regresyon](https://github.com/Pilestin/My_ML_Adventure/tree/master/Makine%20%C3%96%C4%9Frenmesine%20Giri%C5%9F/Proje%201%20-%20Regresyon)
+
 
 Veri Seti : **`https://www.kaggle.com/datasets/harlfoxem/housesalesprediction`**
 
 ## a) *Yaşam alanı (sqft_living) ve arsa (sqft_lot) özniteliklerini (feature, attribute) kullanarak evin fiyatını tahmin edecek basit bir regresyon modeli geliştiriniz.*
 
-- İlk olarak yapmamız gerekenler gerekli kütüphaneleri import etmek olacak. Tabi ki modelimi eğiteceğimiz algoritmamızı kendimiz yazacağız. Fakat verileri uygun veri yapılarında tutmayı, görselleştirmeyi veya parçalamayı uygun kütüphaneleri kullanarak yapacağız.
+<div style="text-align: right"> your-text-here </div>
 
-Başlangıç olarak nump, pandas ve maplotlib kütüphanelerini import ettik. Yeri geldiğinde bir kaç import işlemi daha yapılacak
+ <p style="text-align:right">- İlk olarak yapmamız gerekenler gerekli kütüphaneleri import etmek olacak. Tabi ki modelimi eğiteceğimiz algoritmamızı kendimiz yazacağız. Fakat verileri uygun veri yapılarında tutmayı, görselleştirmeyi veya parçalamayı uygun kütüphaneleri kullanarak yapacağız.
+
+Başlangıç olarak nump, pandas ve maplotlib kütüphanelerini import ettik. Yeri geldiğinde bir kaç import işlemi daha yapılacak </p>
+
+
+
 
 ![Untitled](Proje-1%20Regresyon%2008c0dec28ff349439db3dfe26f1b0b5d/Untitled.png)
 
