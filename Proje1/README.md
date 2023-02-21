@@ -16,12 +16,9 @@ Veri Seti : **`https://www.kaggle.com/datasets/harlfoxem/housesalesprediction`**
 
 ## a) *Yaşam alanı (sqft_living) ve arsa (sqft_lot) özniteliklerini (feature, attribute) kullanarak evin fiyatını tahmin edecek basit bir regresyon modeli geliştiriniz.*
 
-<div style="text-align: right"> your-text-here </div>
+- İlk olarak yapmamız gerekenler gerekli kütüphaneleri import etmek olacak. Tabi ki modelimi eğiteceğimiz algoritmamızı kendimiz yazacağız. Fakat verileri uygun veri yapılarında tutmayı, görselleştirmeyi veya parçalamayı uygun kütüphaneleri kullanarak yapacağız.
 
- <p style="text-align:right">- İlk olarak yapmamız gerekenler gerekli kütüphaneleri import etmek olacak. Tabi ki modelimi eğiteceğimiz algoritmamızı kendimiz yazacağız. Fakat verileri uygun veri yapılarında tutmayı, görselleştirmeyi veya parçalamayı uygun kütüphaneleri kullanarak yapacağız.
-
-Başlangıç olarak nump, pandas ve maplotlib kütüphanelerini import ettik. Yeri geldiğinde bir kaç import işlemi daha yapılacak </p>
-
+Başlangıç olarak nump, pandas ve maplotlib kütüphanelerini import ettik. Yeri geldiğinde bir kaç import işlemi daha yapılacak 
 
 
 
@@ -185,7 +182,7 @@ Bu hücreyi de çalıştırırsak elde ettiğimiz sonuçlar şu şekilde ( Epoch
 
 ![Untitled](Proje-1%20Regresyon%2008c0dec28ff349439db3dfe26f1b0b5d/Untitled%2019.png)
 
-Ortalama olarak %35 hata oranına sahibiz.
+<strong> Ortalama olarak %35 hata oranına sahibiz. </strong>
 
 Şimdi 2. sorumuza geçelim 
 
@@ -325,8 +322,10 @@ Q değerleri = [-154535.40088235194, -23601.05417902612, 382231.68690385355, 521
 
 # Sonuç :
 
+<strong>
 Veriler x_train ve y_train ile eğitilmiş ve x_test ve y_test ile maliyet değerleri kontrol edilip , hata oranları bulunmuştur.
 
 İlk soruda 2 parametre için alfa ve epoch değerleri ile oynanarak %30 - % 50 arasında hata oranları alınmıştır
 
 Fakat 2. soruda tüm parametrelerin verilmesinde hata oranları %99.99 oranında olmuştur.
+</strong>
